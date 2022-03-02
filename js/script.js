@@ -174,7 +174,7 @@ function comprarButtonClick(){
     if (willDelete) {
 
 
-      swal("Gracias por su compra!", {
+      swal("¡Gracias por su compra!", {
         icon: "success",
 
       });
@@ -186,7 +186,7 @@ function comprarButtonClick(){
      }, 2500);
 
     } else {
-      swal("La operacion ha sido cancelada!");
+      swal("¡La operacion ha sido cancelada!");
     }
   });
   
